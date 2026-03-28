@@ -1,0 +1,52 @@
+<svg width="198" height="216" viewBox="0 0 198 216" xmlns="http://www.w3.org/2000/svg">
+<style>.px{shape-rendering:crispEdges}</style>
+<g class="px">
+  <!-- top bump -->
+  <rect x="54" y="0" width="18" height="18" fill="#9AABB8"/>
+  <rect x="72" y="0" width="18" height="18" fill="#AABBCC"/>
+  <rect x="90" y="0" width="18" height="18" fill="#9AABB8"/>
+
+  <!-- row 1 -->
+  <rect x="36" y="18" width="18" height="18" fill="#9AABB8"/>
+  <rect x="54" y="18" width="18" height="18" fill="#AABBCC"/>
+  <rect x="72" y="18" width="18" height="18" fill="#BBCCDD"/>
+  <rect x="90" y="18" width="18" height="18" fill="#AABBCC"/>
+  <rect x="108" y="18" width="18" height="18" fill="#9AABB8"/>
+
+  <!-- row 2 (main body) -->
+  <rect x="18" y="36" width="18" height="18" fill="#8899AA"/>
+  <rect x="36" y="36" width="18" height="18" fill="#AABBCC"/>
+  <rect x="54" y="36" width="18" height="18" fill="#BBCCDD"/>
+  <rect x="72" y="36" width="18" height="18" fill="#CCDDEE"/>
+  <rect x="90" y="36" width="18" height="18" fill="#BBCCDD"/>
+  <rect x="108" y="36" width="18" height="18" fill="#AABBCC"/>
+  <rect x="126" y="36" width="18" height="18" fill="#8899AA"/>
+
+  <!-- row 3 -->
+  <rect x="18" y="54" width="18" height="18" fill="#8899AA"/>
+  <rect x="36" y="54" width="18" height="18" fill="#AABBCC"/>
+  <rect x="54" y="54" width="18" height="18" fill="#BBCCDD"/>
+  <rect x="72" y="54" width="18" height="18" fill="#CCDDEE"/>
+  <rect x="90" y="54" width="18" height="18" fill="#BBCCDD"/>
+  <rect x="108" y="54" width="18" height="18" fill="#AABBCC"/>
+  <rect x="126" y="54" width="18" height="18" fill="#8899AA"/>
+
+  <!-- bottom shadow -->
+  <rect x="18" y="72" width="18" height="18" fill="#778899"/>
+  <rect x="36" y="72" width="18" height="18" fill="#8899AA"/>
+  <rect x="54" y="72" width="18" height="18" fill="#9AABB8"/>
+  <rect x="72" y="72" width="18" height="18" fill="#9AABB8"/>
+  <rect x="90" y="72" width="18" height="18" fill="#9AABB8"/>
+  <rect x="108" y="72" width="18" height="18" fill="#8899AA"/>
+  <rect x="126" y="72" width="18" height="18" fill="#778899"/>
+
+  <!-- lightning bolt -->
+  <rect x="72" y="90" width="18" height="18" fill="#FFE84A"/>
+  <rect x="90" y="90" width="18" height="18" fill="#FFE84A"/>
+  <rect x="72" y="108" width="18" height="18" fill="#FFE84A"/>
+  <rect x="90" y="108" width="18" height="18" fill="#FFD700"/>
+  <rect x="72" y="126" width="18" height="18" fill="#FFD700"/>
+  <rect x="54" y="144" width="18" height="18" fill="#FFE84A"/>
+  <rect x="72" y="144" width="18" height="18" fill="#FFD700"/>
+</g>
+</svg>
