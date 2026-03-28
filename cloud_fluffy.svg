@@ -1,0 +1,64 @@
+<svg width="234" height="126" viewBox="0 0 234 126" xmlns="http://www.w3.org/2000/svg">
+<style>.px{shape-rendering:crispEdges}</style>
+<g class="px">
+  <!-- row 0: top bump -->
+  <rect x="54" y="0" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="72" y="0" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="90" y="0" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="108" y="0" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="126" y="0" width="18" height="18" fill="#EEEEEE"/>
+
+  <!-- row 1 -->
+  <rect x="18" y="18" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="36" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="54" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="72" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="90" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="108" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="126" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="144" y="18" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="162" y="18" width="18" height="18" fill="#EEEEEE"/>
+
+  <!-- row 2 (main body) -->
+  <rect x="0" y="36" width="18" height="18" fill="#DDDDDD"/>
+  <rect x="18" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="36" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="54" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="72" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="90" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="108" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="126" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="144" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="162" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="180" y="36" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="198" y="36" width="18" height="18" fill="#EEEEEE"/>
+
+  <!-- row 3 -->
+  <rect x="0" y="54" width="18" height="18" fill="#DDDDDD"/>
+  <rect x="18" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="36" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="54" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="72" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="90" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="108" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="126" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="144" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="162" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="180" y="54" width="18" height="18" fill="#FFFFFF"/>
+  <rect x="198" y="54" width="18" height="18" fill="#EEEEEE"/>
+
+  <!-- row 4: bottom shadow -->
+  <rect x="0" y="72" width="18" height="18" fill="#CCCCCC"/>
+  <rect x="18" y="72" width="18" height="18" fill="#DDDDDD"/>
+  <rect x="36" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="54" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="72" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="90" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="108" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="126" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="144" y="72" width="18" height="18" fill="#EEEEEE"/>
+  <rect x="162" y="72" width="18" height="18" fill="#DDDDDD"/>
+  <rect x="180" y="72" width="18" height="18" fill="#DDDDDD"/>
+  <rect x="198" y="72" width="18" height="18" fill="#CCCCCC"/>
+</g>
+</svg>
