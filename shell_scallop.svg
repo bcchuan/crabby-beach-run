@@ -1,0 +1,52 @@
+<svg width="198" height="216" viewBox="0 0 198 216" xmlns="http://www.w3.org/2000/svg">
+<style>.px{shape-rendering:crispEdges}</style>
+<g class="px">
+  <rect x="36" y="0" width="18" height="18" fill="#C8A8D8"/>
+  <rect x="54" y="0" width="18" height="18" fill="#B890C8"/>
+  <rect x="72" y="0" width="18" height="18" fill="#C8A8D8"/>
+
+  <rect x="18" y="18" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="36" y="18" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="54" y="18" width="18" height="18" fill="#B890C8"/>
+  <rect x="72" y="18" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="90" y="18" width="18" height="18" fill="#D8B8E8"/>
+
+  <rect x="0" y="36" width="18" height="18" fill="#C8A8D8"/>
+  <rect x="18" y="36" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="36" y="36" width="18" height="18" fill="#B890C8"/>
+  <rect x="54" y="36" width="18" height="18" fill="#F0DCFF"/>
+  <rect x="72" y="36" width="18" height="18" fill="#B890C8"/>
+  <rect x="90" y="36" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="108" y="36" width="18" height="18" fill="#C8A8D8"/>
+
+  <rect x="0" y="54" width="18" height="18" fill="#B890C8"/>
+  <rect x="18" y="54" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="36" y="54" width="18" height="18" fill="#F0DCFF"/>
+  <rect x="54" y="54" width="18" height="18" fill="#B890C8"/>
+  <rect x="72" y="54" width="18" height="18" fill="#F0DCFF"/>
+  <rect x="90" y="54" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="108" y="54" width="18" height="18" fill="#B890C8"/>
+
+  <rect x="0" y="72" width="18" height="18" fill="#C8A8D8"/>
+  <rect x="18" y="72" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="36" y="72" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="54" y="72" width="18" height="18" fill="#F0DCFF"/>
+  <rect x="72" y="72" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="90" y="72" width="18" height="18" fill="#E8CCF4"/>
+  <rect x="108" y="72" width="18" height="18" fill="#C8A8D8"/>
+
+  <rect x="0" y="90" width="18" height="18" fill="#9870B0"/>
+  <rect x="18" y="90" width="18" height="18" fill="#B890C8"/>
+  <rect x="36" y="90" width="18" height="18" fill="#C8A8D8"/>
+  <rect x="54" y="90" width="18" height="18" fill="#D8B8E8"/>
+  <rect x="72" y="90" width="18" height="18" fill="#C8A8D8"/>
+  <rect x="90" y="90" width="18" height="18" fill="#B890C8"/>
+  <rect x="108" y="90" width="18" height="18" fill="#9870B0"/>
+
+  <!-- hinge nub -->
+  <rect x="36" y="108" width="18" height="18" fill="#9870B0"/>
+  <rect x="54" y="108" width="18" height="18" fill="#9870B0"/>
+  <rect x="72" y="108" width="18" height="18" fill="#9870B0"/>
+  <rect x="54" y="126" width="18" height="18" fill="#7A5590"/>
+</g>
+</svg>
