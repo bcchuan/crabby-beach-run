@@ -1,0 +1,157 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .px { shape-rendering: crispEdges; }
+</style>
+
+<!-- 8-bit pixel crab -->
+<g class="px">
+  <!-- Main shell rows -->
+  <rect x="268" y="154" width="18" height="18" fill="#CC3300"/>
+  <rect x="286" y="154" width="18" height="18" fill="#CC3300"/>
+  <rect x="304" y="154" width="18" height="18" fill="#FF4400"/>
+  <rect x="322" y="154" width="18" height="18" fill="#FF4400"/>
+  <rect x="340" y="154" width="18" height="18" fill="#FF4400"/>
+  <rect x="358" y="154" width="18" height="18" fill="#FF4400"/>
+  <rect x="376" y="154" width="18" height="18" fill="#CC3300"/>
+  <rect x="394" y="154" width="18" height="18" fill="#CC3300"/>
+
+  <rect x="250" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="268" y="172" width="18" height="18" fill="#FF5500"/>
+  <rect x="286" y="172" width="18" height="18" fill="#FF5500"/>
+  <rect x="304" y="172" width="18" height="18" fill="#FF6633"/>
+  <rect x="322" y="172" width="18" height="18" fill="#FF6633"/>
+  <rect x="340" y="172" width="18" height="18" fill="#FF6633"/>
+  <rect x="358" y="172" width="18" height="18" fill="#FF6633"/>
+  <rect x="376" y="172" width="18" height="18" fill="#FF5500"/>
+  <rect x="394" y="172" width="18" height="18" fill="#FF5500"/>
+  <rect x="412" y="172" width="18" height="18" fill="#CC3300"/>
+
+  <rect x="250" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="268" y="190" width="18" height="18" fill="#FF6633"/>
+  <rect x="286" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="304" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="322" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="340" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="358" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="376" y="190" width="18" height="18" fill="#FF8855"/>
+  <rect x="394" y="190" width="18" height="18" fill="#FF6633"/>
+  <rect x="412" y="190" width="18" height="18" fill="#FF4400"/>
+
+  <!-- Eyes row -->
+  <rect x="250" y="208" width="18" height="18" fill="#FF4400"/>
+  <rect x="268" y="208" width="18" height="18" fill="#FF6633"/>
+  <rect x="286" y="208" width="18" height="18" fill="#111111"/>
+  <rect x="304" y="208" width="18" height="18" fill="#FF8855"/>
+  <rect x="322" y="208" width="18" height="18" fill="#FF8855"/>
+  <rect x="340" y="208" width="18" height="18" fill="#FF8855"/>
+  <rect x="358" y="208" width="18" height="18" fill="#FF8855"/>
+  <rect x="376" y="208" width="18" height="18" fill="#111111"/>
+  <rect x="394" y="208" width="18" height="18" fill="#FF6633"/>
+  <rect x="412" y="208" width="18" height="18" fill="#FF4400"/>
+
+  <!-- Mouth row -->
+  <rect x="250" y="226" width="18" height="18" fill="#CC3300"/>
+  <rect x="268" y="226" width="18" height="18" fill="#FF5500"/>
+  <rect x="286" y="226" width="18" height="18" fill="#FF6633"/>
+  <rect x="304" y="226" width="18" height="18" fill="#222222"/>
+  <rect x="322" y="226" width="18" height="18" fill="#FF8855"/>
+  <rect x="340" y="226" width="18" height="18" fill="#222222"/>
+  <rect x="358" y="226" width="18" height="18" fill="#FF8855"/>
+  <rect x="376" y="226" width="18" height="18" fill="#222222"/>
+  <rect x="394" y="226" width="18" height="18" fill="#FF5500"/>
+  <rect x="412" y="226" width="18" height="18" fill="#CC3300"/>
+
+  <rect x="268" y="244" width="18" height="18" fill="#CC3300"/>
+  <rect x="286" y="244" width="18" height="18" fill="#FF5500"/>
+  <rect x="304" y="244" width="18" height="18" fill="#FF6633"/>
+  <rect x="322" y="244" width="18" height="18" fill="#FF6633"/>
+  <rect x="340" y="244" width="18" height="18" fill="#FF6633"/>
+  <rect x="358" y="244" width="18" height="18" fill="#FF6633"/>
+  <rect x="376" y="244" width="18" height="18" fill="#FF5500"/>
+  <rect x="394" y="244" width="18" height="18" fill="#CC3300"/>
+
+  <rect x="286" y="262" width="18" height="18" fill="#AA2200"/>
+  <rect x="304" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="322" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="340" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="358" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="376" y="262" width="18" height="18" fill="#AA2200"/>
+
+  <!-- Left claw -->
+  <rect x="196" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="214" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="232" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="178" y="190" width="18" height="18" fill="#CC3300"/>
+  <rect x="196" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="214" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="232" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="142" y="208" width="18" height="18" fill="#CC3300"/>
+  <rect x="160" y="208" width="18" height="18" fill="#FF4400"/>
+  <rect x="178" y="208" width="18" height="18" fill="#FF5500"/>
+  <rect x="196" y="208" width="18" height="18" fill="#FF5500"/>
+  <rect x="106" y="190" width="18" height="18" fill="#AA2200"/>
+  <rect x="124" y="190" width="18" height="18" fill="#CC3300"/>
+  <rect x="142" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="106" y="208" width="18" height="18" fill="#331100"/>
+  <rect x="124" y="208" width="18" height="18" fill="#551100"/>
+  <rect x="106" y="226" width="18" height="18" fill="#AA2200"/>
+  <rect x="124" y="226" width="18" height="18" fill="#CC3300"/>
+  <rect x="142" y="226" width="18" height="18" fill="#FF4400"/>
+  <rect x="160" y="226" width="18" height="18" fill="#FF4400"/>
+  <rect x="178" y="226" width="18" height="18" fill="#FF5500"/>
+  <rect x="196" y="226" width="18" height="18" fill="#FF5500"/>
+
+  <!-- Right claw -->
+  <rect x="430" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="448" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="466" y="172" width="18" height="18" fill="#CC3300"/>
+  <rect x="430" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="448" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="466" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="484" y="190" width="18" height="18" fill="#CC3300"/>
+  <rect x="466" y="208" width="18" height="18" fill="#FF5500"/>
+  <rect x="484" y="208" width="18" height="18" fill="#FF5500"/>
+  <rect x="502" y="208" width="18" height="18" fill="#FF4400"/>
+  <rect x="520" y="208" width="18" height="18" fill="#CC3300"/>
+  <rect x="502" y="190" width="18" height="18" fill="#FF4400"/>
+  <rect x="520" y="190" width="18" height="18" fill="#CC3300"/>
+  <rect x="538" y="190" width="18" height="18" fill="#AA2200"/>
+  <rect x="520" y="208" width="18" height="18" fill="#551100"/>
+  <rect x="538" y="208" width="18" height="18" fill="#331100"/>
+  <rect x="466" y="226" width="18" height="18" fill="#FF5500"/>
+  <rect x="484" y="226" width="18" height="18" fill="#FF5500"/>
+  <rect x="502" y="226" width="18" height="18" fill="#FF4400"/>
+  <rect x="520" y="226" width="18" height="18" fill="#CC3300"/>
+  <rect x="538" y="226" width="18" height="18" fill="#AA2200"/>
+
+  <!-- Left legs -->
+  <rect x="232" y="244" width="18" height="18" fill="#CC3300"/>
+  <rect x="214" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="196" y="280" width="18" height="18" fill="#AA2200"/>
+  <rect x="178" y="298" width="18" height="18" fill="#AA2200"/>
+  <rect x="250" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="232" y="280" width="18" height="18" fill="#CC3300"/>
+  <rect x="214" y="298" width="18" height="18" fill="#AA2200"/>
+  <rect x="196" y="316" width="18" height="18" fill="#AA2200"/>
+  <rect x="268" y="280" width="18" height="18" fill="#CC3300"/>
+  <rect x="250" y="298" width="18" height="18" fill="#CC3300"/>
+  <rect x="232" y="316" width="18" height="18" fill="#AA2200"/>
+
+  <!-- Right legs -->
+  <rect x="412" y="244" width="18" height="18" fill="#CC3300"/>
+  <rect x="430" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="448" y="280" width="18" height="18" fill="#AA2200"/>
+  <rect x="466" y="298" width="18" height="18" fill="#AA2200"/>
+  <rect x="394" y="262" width="18" height="18" fill="#CC3300"/>
+  <rect x="412" y="280" width="18" height="18" fill="#CC3300"/>
+  <rect x="430" y="298" width="18" height="18" fill="#AA2200"/>
+  <rect x="448" y="316" width="18" height="18" fill="#AA2200"/>
+  <rect x="376" y="280" width="18" height="18" fill="#CC3300"/>
+  <rect x="394" y="298" width="18" height="18" fill="#CC3300"/>
+  <rect x="412" y="316" width="18" height="18" fill="#AA2200"/>
+
+  <!-- Eye shine dots -->
+  <rect x="290" y="212" width="6" height="6" fill="#ffffff"/>
+  <rect x="380" y="212" width="6" height="6" fill="#ffffff"/>
+</g>
+</svg>
