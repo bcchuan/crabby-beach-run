@@ -1,5 +1,5 @@
 # crabby-beach-run
-Crabby Beach Run! 🦀 A game created by Claude AI
+Crabby Beach Run! 🦀 A HTML5 Javascript game created by Claude AI, with a p5.js version created by me.
 
 Here's how to play:
 
